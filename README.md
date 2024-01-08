@@ -46,6 +46,11 @@
 ![image](https://github.com/hui1feng/-Demo/assets/126125104/564948be-10f6-4c7e-81ff-ac448af5f102)
 
 
+参考自：https://github.com/InternLM/tutorial/blob/main/helloworld/hello_world.md#%E8%BD%BB%E6%9D%BE%E7%8E%A9%E8%BD%AC%E4%B9%A6%E7%94%9F%E6%B5%A6%E8%AF%AD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B6%A3%E5%91%B3-demo
+https://www.bilibili.com/video/BV1Ci4y1z72H/?note=open
+
+
+
 
 
 
